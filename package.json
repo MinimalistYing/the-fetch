@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/MinimalistYing/easy-fetch#readme",
   "devDependencies": {
-    "rollup": "^1.2.3"
+    "rollup": "^2.79.2"
   }
 }
